@@ -23,3 +23,4 @@ WEB 3 : Additionally, the project addresses the scalability concern of storing l
 
 Comprehending Patch Management : 
             The conventional approach to identifying, testing, and implementing software updates, aimed at enhancing security and performance, is frequently hindered by deficiencies in both transparency and security within traditional patch management methodologies.
+
